@@ -73,4 +73,6 @@ streamlit run dashboard/app.py
 ```
 
 ## 📸 Dashboard Preview
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/Screenshot%202026-02-23%20at%202.34.10%E2%80%AFPM.png)
+![Volatility](assets/Screenshot%202026-02-23%20at%202.35.23%E2%80%AFPM.png)
+![Sectors](assets/Screenshot%202026-02-23%20at%202.35.52%E2%80%AFPM.png)
